@@ -23,9 +23,9 @@ int main()
         do
         {
         cout << fixed << showpoint << setprecision(2);
-        cout << "*********************\n";
-        cout << "WELCOME TO Which Wich\n";
-        cout << "*********************\n";
+        cout << "**********************************\n";
+        cout << "WELCOME TO South County Sandwiches\n";
+        cout << "**********************************\n";
         
         cout << "\n(1) Ham for $4.00\n";
         cout << "(2) Veggie for $3.00\n";
